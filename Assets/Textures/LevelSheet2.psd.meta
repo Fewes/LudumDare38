@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 2e844217a6967394eb807c926fc01c85
+timeCreated: 1493319648
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Floor_Span
+    21300002: Floor_End
+    21300004: Wall_Span
+    21300006: Wall_BG
+    21300008: LevelSheet2_4
+    21300010: LevelSheet2_5
+    21300012: LevelSheet2_6
+    21300014: LevelSheet2_7
+    21300016: LevelSheet2_8
+    21300018: LevelSheet2_9
+    21300020: LevelSheet2_10
+    21300022: LevelSheet2_11
+    21300024: LevelSheet2_12
+    21300026: LevelSheet2_13
+    21300028: LevelSheet2_14
+    21300030: LevelSheet2_15
+    21300032: LevelSheet2_16
+    21300034: LevelSheet2_17
+    21300036: LevelSheet2_18
+    21300038: LevelSheet2_19
+    21300040: LevelSheet2_20
+    21300042: LevelSheet2_21
+    21300044: LevelSheet2_22
+    21300046: LevelSheet2_23
+    21300048: LevelSheet2_24
+    21300050: LevelSheet2_25
+    21300052: LevelSheet2_26
+    21300054: LevelSheet2_27
+    21300056: LevelSheet2_28
+    21300058: LevelSheet2_29
+    21300060: LevelSheet2_30
+    21300062: LevelSheet2_31
+    21300064: LevelSheet2_32
+    21300066: LevelSheet2_33
+    21300068: LevelSheet2_34
+    21300070: LevelSheet2_35
+    21300072: LevelSheet2_36
+    21300074: LevelSheet2_37
+    21300076: LevelSheet2_38
+    21300078: LevelSheet2_39
+    21300080: LevelSheet2_40
+    21300082: LevelSheet2_41
+    21300084: LevelSheet2_42
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor_Span
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Floor_End
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall_Span
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall_BG
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 239.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 222.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 205.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LevelSheet2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188.93333
+        width: 16.066668
+        height: 16.066668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

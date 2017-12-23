@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShadowCaster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - World
+  - WorldSensor
+  - Player
+  - Enemy
+  - Prop
+  - Debris
+  - HurtBox
+  - ShadowMesh
+  - NoCollide
+  - EnemyDead
+  - PlayerIgnoreEnemies
+  - Trigger
+  - LightMesh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1541519407
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2286227165
+    locked: 0
+  - name: Overlay
+    uniqueID: 996578647
+    locked: 0
+  - name: UI
+    uniqueID: 2494560413
+    locked: 0
